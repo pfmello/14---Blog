@@ -39,6 +39,10 @@
 
 /* Post detail page */
 
+#post-detail {
+  width: 60%;
+}
+
 #post-meta {
   color: rgb(156, 149, 149);
 }
